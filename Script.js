@@ -1,10 +1,10 @@
-var fname = [
-  'stinky',
-  'jon',
-  'he',
-  'noob'
+var fquote = [
+  'E.... Thats all',
+  'Robux -All roblox n00bs',
+  'PINGAS',
+  'U stinky'
 ]
-function newName() {
-  var randomNumber = Math.floor(Math.random() * (fname.length));
-  document.getElementById('funnyName').innerHTML = fname[randomNumber];
+function newQuote() {
+  var randomNumber = Math.floor(Math.random() * (fquote.length));
+  document.getElementById('funnyQuote').innerHTML = fname[randomNumber];
 }
