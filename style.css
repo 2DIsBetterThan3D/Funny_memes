@@ -1,6 +1,6 @@
 
 html{
-    background: grey
+    background: blue
 }
 html{
     color:darkred
@@ -9,8 +9,5 @@ button{
     color:green
 }
 button{
-    width:"120px"
-}
-button{
-    height:"50px"
+    background:navy
 }
