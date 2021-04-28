@@ -6,5 +6,5 @@ var fquote = [
 ]
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * (fquote.length));
-  document.getElementById('funnyQuote').innerHTML = fname[randomNumber];
+  document.getElementById('funnyQuote').innerHTML = fquote[randomNumber];
 }
