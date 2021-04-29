@@ -12,7 +12,7 @@ var fquote = [
   "'arrrrgr ahhurha hwaaaagr haeeaaaaaaa' -Cewbaca",
   "'HELLO There!'-obi-wan",
   "'general kenobi, you are a bold one'-grievous(did u get this after hello there? did you? its funnier if you did.)",
-  "'What if the dryer has been stealing our close this whole tome but we only notice the socks because they come in pairs?' -UNKNOWN",
+  "'What if the dryer has been stealing our clothse this whole time but we only notice the socks because they come in pairs?' -UNKNOWN",
   "'what if the princes whats to be with Bowser but Mario kidnaps her?' -UNKNOWN"
   
 ]
