@@ -1,5 +1,5 @@
 var fquote = [
-  "'E.... That's all',
+  "'E.... That's all'",
   "'Robux' -All roblox n00bs",
   "'PINGAS' -Dr. EGGMAN",
   "'U stinky' -Unknown",
