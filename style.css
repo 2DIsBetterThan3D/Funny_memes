@@ -47,5 +47,14 @@ div#FunnyQuoteGen{
     color: green
 }
 div#FunnyQuoteGen{
+    font-style: italic
+}
+div#FunnyQuoteGen{
+    font-size: larger
+}
+button{
+    font-style: italic
+}
+button{
     font-size: larger
 }
