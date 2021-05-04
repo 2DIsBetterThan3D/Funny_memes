@@ -8,4 +8,4 @@
 
 #Note: not responsable for eardrums being destroyed
 
-#no bullying, insulting, 18+ content, editing a othe branch other than your own. report theas at https://forms.gle/LbDMVZZtvCj5GWrR7
+#no bullying, insulting, 18+ content, editing an other branch other than your own. report at https://forms.gle/LbDMVZZtvCj5GWrR7
