@@ -1,5 +1,5 @@
 # Funny_memes
- I do not own any of the songs or memes feachered on this site
+ I do not own any of the songs or memes featured on this site
 
 
  This site is for fun not making fun of songs
