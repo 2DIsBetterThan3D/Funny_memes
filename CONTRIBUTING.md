@@ -1,9 +1,9 @@
-No one but a user with admin powers can merge pullrequests.
+No one but a user with admin powers can merge pull requests.
 
-if a user with admin revwes a pull request and find it elegable to be merge befor the 3 revews requirment is met the user may merge the pull request
+If a user with admin reviewed a pull request and found it eligible to be merge before the 3 reviews requirement is met the user may merge the pull request
 
-A userwith admin may merge a pullrequest befor the requred chechs are passed
+A user with admin may merge a pull request before the required checks are passed
 
-ALL request must be revewed by a user with admin befor the request is merged
+ALL request must be reviewed by a user with admin before the request is merged
 
-If thease rules are broken It will result in a band from this and simmilar respetorys from my account
+If these rules are broken It will result in a band from this and similar repositories from my account
