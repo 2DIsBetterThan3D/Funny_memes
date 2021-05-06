@@ -14,7 +14,8 @@ var fquote = [
   "'general kenobi, you are a bold one'-grievous(did u get this after hello there? did you? its funnier if you did.)",
   "'What if the dryer has been stealing our cloths this whole time but we only notice the socks because they come in pairs?' -UNKNOWN",
   "'what if the princes whats to be with Bowser but Mario kidnaps her?' -UNKNOWN",
-  "'Dont cheat on your wife, cheat on your husband'-albert(flamingo AKA.Mr.flimflam)"
+  "'Dont cheat on your wife, cheat on your husband'-albert(flamingo AKA.Mr.flimflam)",
+  "'ONIONS'-SHREK"
   
 ]
 function newQuote() {
