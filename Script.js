@@ -37,8 +37,5 @@ randomMeme[6] = "https://i1.wp.com/memesrush.com/wp-content/uploads/2019/02/funn
 
 var number = Math.floor(Math.random()*randomMeme.length);   
 return document.getElementById("randomMeme").innerHTML = '<img src="'+randomMeme[number]+'" width="500px" height="350px" />';  
- var image= document.getElementById("randomMeme");
-  image.style.width= '500px';
-  image.style.height='350px';
 }  
 
