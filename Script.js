@@ -22,7 +22,7 @@ function newQuote() {
   var randomNumber = Math.floor(Math.random() * (fquote.length));
   document.getElementById('funnyQuote').innerHTML = fquote[randomNumber];
 }
-function getRandomMeme() {  
+function newMeme() {  
 var randomMeme = new Array();  
   
 
