@@ -26,12 +26,13 @@ function newMeme() {
 var randomMeme = new Array();  
   
 
-randomMeme[0] = "https://images.pexels.com/photos/858115/pexels-photo-858115.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500";  
-randomMeme[1] = "http://www.petsworld.in/blog/wp-content/uploads/2014/09/running-cute-puppies.jpg";  
-randomMeme[2] = "https://images.pexels.com/photos/142497/pexels-photo-142497.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500";  
-randomMeme[3] = "https://images.unsplash.com/photo-1543877087-ebf71fde2be1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60";  
-randomMeme[4] = "https://wi.wallpapertip.com/wsimgs/156-1565522_puppies-desktop-wallpaper-desktop-background-puppies.jpg";  
-randomMeme[5] = "https://images.unsplash.com/photo-1501265976582-c1e1b0bbaf63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60";  
+randomMeme[0] = "https://img.buzzfeed.com/buzzfeed-static/static/2019-04/25/21/campaign_images/buzzfeed-prod-web-02/the-showing-my-mom-a-funny-meme-meme-is-so-pure-a-2-6299-1556240861-0_dblbig.jpg?resize=1200:*";  
+randomMeme[1] = "https://static.thehoneycombers.com/wp-content/uploads/sites/4/2020/03/Best-funny-Coronavirus-memes-2020-Honeycombers-Bali-221.jpg";  
+randomMeme[2] = "https://winkgo.com/wp-content/uploads/2019/05/funny-memes-best-01-720x527.jpg";  
+randomMeme[3] = "https://www.albawaba.com/sites/default/files/styles/d08_standard/public/2021-01/ErKWvu5W4AE3sSt_0.jpg?h=5e2c3b87&itok=6x3TLl8U&mrf-size=m";  
+randomMeme[4] = "http://static.demilked.com/wp-content/uploads/2019/10/5da8209a0da15-8-5cac5c63d855a__700.jpg";  
+randomMeme[5] = "https://bestlifeonline.com/wp-content/uploads/2020/07/Hello-This-Is-Dog.jpg"; 
+randomMeme[6] = "https://i1.wp.com/memesrush.com/wp-content/uploads/2019/02/funny-meme-picture-1549355360.jpg?fit=662%2C857&ssl=1";
   
 
 var number = Math.floor(Math.random()*randomMeme.length);   

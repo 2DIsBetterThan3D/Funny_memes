@@ -58,3 +58,20 @@ button{
 button{
     font-size: larger
 }
+div#RandomMemeGen{
+    color: blue
+}
+div#RandomMemeGen{
+    font-size: larger
+}
+div#RandomMemeGen{
+   font-size-adjust: 1.6;
+   background: grey
+}
+button#randomMeme{
+    width: 600px;
+    height: 60px;
+    font-size-adjust: 1.1;
+    background: darkred;
+    color:black
+}
