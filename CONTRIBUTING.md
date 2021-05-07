@@ -1,6 +1,6 @@
 No one but a user with admin powers can merge pull requests.
 
-If a user with admin reviewed a pull request and found it eligible to be merge before the 3 reviews requirement is met the user may merge the pull request
+If a user with admin reviewed a pull request and found it eligible to be merge before the 1 review by a user with write acses requirement is met the user may merge the pull request
 
 A user with admin may merge a pull request before the required checks are passed
 
