@@ -6,13 +6,13 @@ html{
     color:white
 }
 button{
-    color:green
+    color:red
 }
 button{
     background:navy
 }
 h2{
-    color:red
+    color:darkred
 }
 button{
     background:navy
@@ -24,34 +24,21 @@ div#funnyQuote{
     color: green
 }
 div#funnyQuote{
-    font-style:italic
-}
-div#funnyQuote{
+    font-style:italic;
     font-size: larger
-}
 
 button{
-    width:150px
-}
-button{
-    height: 40px
-}
-button{
-    font-size: larger
-}
-button{
+    width:150px;
+    height: 40px;
+    font-size: larger;
     font-style: italic
 }
 
 div#FunnyQuoteGen{
-    color: green
-}
-div#FunnyQuoteGen{
-    font-style: italic
-}
-div#FunnyQuoteGen{
+    color: green;
+    font-style: italic;
     font-size: larger
-}
+    }
 button{
     font-style: italic
 }
