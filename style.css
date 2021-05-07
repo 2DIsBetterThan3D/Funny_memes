@@ -7,18 +7,28 @@ html{
 }
 button{
     color:red
-}
-button{
-    background:navy
-}
-h2{
-    color:darkred
-}
 button{
     background:navy
 }
 h2{
     color:red
+}
+div#funnyQuote{
+    color: green
+}
+div#funnyQuote{
+    font-style:italic
+}
+div#funnyQuote{
+    font-size: larger
+}
+
+button{
+    width:150px
+}
+button{
+    height: 40px
+}
 }
 div#funnyQuote{
     color: green
