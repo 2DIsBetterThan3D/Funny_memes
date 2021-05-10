@@ -1,6 +1,14 @@
 html{
-    background:black
+    background:black;
+    color:red;
 }
-html{
-    color:white
+.header {
+  padding: 5px;
+  background: gray;
+  color: red;
+  font-size: larger;
+}
+a.button{
+  padding:2px;
+  background:black
 }

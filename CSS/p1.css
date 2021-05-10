@@ -34,6 +34,7 @@ button{
     font-style: italic
 }
 
+
 div#FunnyQuoteGen{
     color: green;
     font-style: italic;
@@ -61,4 +62,15 @@ button#randomMeme{
     font-size-adjust: 1.1;
     background: darkred;
     color:black
+}
+
+.header {
+  padding: 5px;
+  background: gray;
+  color: red;
+  font-size: larger;
+}
+a.button{
+  padding:2px;
+  background:black
 }
