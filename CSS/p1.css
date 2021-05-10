@@ -62,3 +62,10 @@ button#randomMeme{
     background: darkred;
     color:black
 }
+.header {
+  padding: 60px;
+  text-align: center;
+  background: gray;
+  color: red;
+  font-size: 30px;
+}
