@@ -2,3 +2,13 @@ html{
     background:black;
     color:red;
 }
+.header {
+  padding: 5px;
+  background: gray;
+  color: red;
+  font-size: larger;
+}
+a.button{
+  padding:2px;
+  background:black
+}
