@@ -89,6 +89,6 @@ a.prev-button:hover{
 
 img#logo:hover{
     animation-name: spinning;
-    animation-duration: 1s;
+    animation-duration: .5s;
     animation-timing-function: linear;
 }
