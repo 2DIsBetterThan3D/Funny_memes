@@ -8,9 +8,9 @@ html{
   color: red;
   font-size: larger;
 }
-a.next.button:hover{
+a.next-button:hover{
   padding:2px;
-  background:gray;
+  background:black;
   color:red
 }
 a.prev-button:hover{
