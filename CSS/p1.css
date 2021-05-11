@@ -70,14 +70,15 @@ button#randomMeme{
   color: red;
   font-size: larger;
 }
-a.next.button:hover{
+a.next-button:hover{
   padding:2px;
   background:green;
   color:blue
 }
-a.prev-button;hover{
+a.prev-button:hover{
     padding:2px;
-    background:red
+    background:red;
+    color:black
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }
