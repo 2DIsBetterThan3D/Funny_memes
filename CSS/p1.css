@@ -75,9 +75,9 @@ a.next.button:hover{
   background:green;
   color:blue
 }
-a.prev-button{
+a.prev-button;hover{
     padding:2px;
-    background:gray
+    background:red
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }
