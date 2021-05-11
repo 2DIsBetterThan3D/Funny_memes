@@ -10,12 +10,13 @@ html{
 }
 a.next.button:hover{
   padding:2px;
-  background:green;
-  color:blue
+  background:gray;
+  color:red
 }
-a.prev-button{
+a.prev-button:hover{
     padding:2px;
-    background:gray
+    background:green;
+    color:blue
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }
