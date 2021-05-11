@@ -8,7 +8,25 @@ html{
   color: red;
   font-size: larger;
 }
-a.button{
+a.next.button:hover{
   padding:2px;
-  background:black
+  background:gray;
+  color:red
+}
+a.prev-button:hover{
+    padding:2px;
+    background:green;
+    color:blue
+}
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+ 
+}
+
+
+img#logo:hover{
+    animation-name: spinning;
+    animation-duration: 1s;
+    animation-timing-function: linear;
 }
