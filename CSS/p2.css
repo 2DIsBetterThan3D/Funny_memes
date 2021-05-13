@@ -8,9 +8,9 @@ html{
   color: red;
   font-size: larger;
 }
-a.next.button:hover{
+a.next-button:hover{
   padding:2px;
-  background:gray;
+  background:black;
   color:red
 }
 a.prev-button:hover{
@@ -27,6 +27,11 @@ a.prev-button:hover{
 
 img#logo:hover{
     animation-name: spinning;
-    animation-duration: 1s;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}
+img#my\ logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
     animation-timing-function: linear;
 }

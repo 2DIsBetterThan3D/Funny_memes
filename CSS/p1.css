@@ -70,14 +70,15 @@ button#randomMeme{
   color: red;
   font-size: larger;
 }
-a.next.button:hover{
+a.next-button:hover{
   padding:2px;
   background:green;
   color:blue
 }
-a.prev-button{
+a.prev-button:hover{
     padding:2px;
-    background:gray
+    background:red;
+    color:black
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }
@@ -88,6 +89,11 @@ a.prev-button{
 
 img#logo:hover{
     animation-name: spinning;
-    animation-duration: 1s;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}
+img#my\ logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
     animation-timing-function: linear;
 }
