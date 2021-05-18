@@ -37,6 +37,14 @@ img#my\ logo:hover{
 }
 div#sound\ buttons{
     font-size: larger;
-    background: gray;
-    color: blue
+    background: navy;
+    color: orange;
+    width:1000px;
+    height:500;
+    overflow: auto;
+    text-align: justify;
+    padding: 20px;
+    
+        
 }
+
