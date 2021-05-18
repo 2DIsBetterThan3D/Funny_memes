@@ -35,3 +35,8 @@ img#my\ logo:hover{
     animation-duration: .5s;
     animation-timing-function: linear;
 }
+div#sound\ buttons{
+    font-size: larger;
+    background: gray;
+    color: blue
+}
