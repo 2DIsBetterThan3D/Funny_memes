@@ -15,7 +15,8 @@ var fquote = [
   "'What if the dryer has been stealing our cloths this whole time but we only notice the socks because they come in pairs?' -UNKNOWN",
   "'what if the princes whats to be with Bowser but Mario kidnaps her?' -UNKNOWN",
   "'Dont cheat on your wife, cheat on your husband'-albert(flamingo AKA.Mr.flimflam)",
-  "'ONIONS'-SHREK"
+  "'ONIONS'-SHREK",
+  "'ITS NO USE'-Silver the hedgehog(If you like sonic you will get it.)"
   
 ]
 function newQuote() {
@@ -39,6 +40,8 @@ randomMeme[9] = "https://img.17qq.com/images/hpbjgefz.jpeg";
 randomMeme[10] = "https://lh3.googleusercontent.com/proxy/xc6_0qdUsV51SAT5JKOL3TN_bdd9nj3VyDU9lD5z6wbdKIlR7nNaRwSgBYiIN867DCquVWJMvaTQ-LBT0VjC9hMGNK1z7d-1Rlb_O1FA9iX1CqWcOcsqchVIvA=w1200-h630-p-k-no-nu";
 randomMeme[11] = "http://images3.memedroid.com/images/UPLOADED63/5ec21e16d0e00.jpeg";
 randomMeme[12] = "https://th.bing.com/th/id/R861a327fa9445e15b1512bc696446010?rik=3scS0%2bjRsxhlwg&pid=ImgRaw";
+randomMeme[13]="https://th.bing.com/th/id/R24ea78dd7bd0d0eb245421abebe40f72?rik=FIN3VNE6eCmsvQ&pid=ImgRaw";
+randomMeme[14]="/spring cleaning.png"
 
 var number = Math.floor(Math.random()*randomMeme.length);   
 return document.getElementById("randomMeme").innerHTML = '<img src="'+randomMeme[number]+'" width="500px" height="350px" />';  
