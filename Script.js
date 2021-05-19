@@ -16,7 +16,7 @@ var fquote = [
   "'what if the princes whats to be with Bowser but Mario kidnaps her?' -UNKNOWN",
   "'Dont cheat on your wife, cheat on your husband'-albert(flamingo AKA.Mr.flimflam)",
   "'ONIONS'-SHREK",
-  "'ITS NO USE'-Silver the hegehog(If you like sonic you will get it.)"
+  "'ITS NO USE'-Silver the hedgehog(If you like sonic you will get it.)"
   
 ]
 function newQuote() {
