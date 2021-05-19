@@ -12,6 +12,7 @@
 
  Submit feedback to: https://forms.gle/8rvYjAxzyJGwzHx87
 
-Sound buttons from https://www.myinstants.com
+Sound buttons from https://www.myinstants.com Important https://www.myinstants.com may have content not suatable for all ages pleas be carfull!!!
+If you click on the link under the button insted of the button it self. the site will open in the frame so be carfull that button will become unuseable for you!!
 
  Have fun 
