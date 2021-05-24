@@ -10,8 +10,8 @@ html{
 }
 a.next-button:hover{
   padding:2px;
-  background:green;
-  color:blue
+  background:black;
+  color:red
 }
 a.prev-button:hover{
     padding:2px;
@@ -35,16 +35,34 @@ img#my\ logo:hover{
     animation-duration: .5s;
     animation-timing-function: linear;
 }
-div#sound\ buttons{
-    font-size: larger;
-    background: navy;
-    color: orange;
-    width:1000px;
-    height:500;
-    overflow: auto;
-    text-align: justify;
-    padding: 20px;
-    
-        
+button{
+    font-style: italic
 }
-
+button{
+    font-size: larger
+}
+div#RandomMemeGen{
+    color: blue
+}
+div#RandomMemeGen{
+    font-size: larger
+}
+div#RandomMemeGen{
+   font-size-adjust: 1.6;
+   background: grey
+}
+button#randomMeme{
+    width: 600px;
+    height: 60px;
+    font-size-adjust: 1.1;
+    background: darkred;
+    color:black
+}
+button#randomMeme:hover{
+    width: 600px;
+    height: 60px;
+    font-size-adjust: 1.1;
+    background: black;
+    color:darkred
+}
+}
