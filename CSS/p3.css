@@ -2,7 +2,7 @@ html{
     background:black;
     color:red;
 }
-.header {
+div#header {
   padding: 5px;
   background: gray;
   color: red;
