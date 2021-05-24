@@ -10,8 +10,8 @@ html{
 }
 a.next-button:hover{
   padding:2px;
-  background:black;
-  color:red
+  background:green;
+  color:blue
 }
 a.prev-button:hover{
     padding:2px;
