@@ -4,10 +4,12 @@
 
 
 
-| branch  | Supported          |
+| release or branch | Supported |
 | ------- | ------------------ |
 | main    | :white_check_mark: |
-| other   | :x:
+| patches   | :x:
+|v.2.1.7|:white_check_mark:
+
 
 
 ## Reporting a Vulnerability or other issuse
