@@ -8,7 +8,8 @@
 | ------- | ------------------ |
 | main    | :white_check_mark: |
 | patches   | :x:
-|v.2.1.7|:white_check_mark:
+|v2.1.7|:white_check_mark:|
+|v1.1|:white_check_mark:|
 
 
 
