@@ -1,0 +1,37 @@
+html{
+    background:black;
+    color:red;
+}
+.header {
+  padding: 5px;
+  background: gray;
+  color: red;
+  font-size: larger;
+}
+a.next-button:hover{
+  padding:2px;
+  background:black;
+  color:red
+}
+a.prev-button:hover{
+    padding:2px;
+    background:green;
+    color:blue
+}
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+ 
+}
+
+
+img#logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}
+img#my\ logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}
