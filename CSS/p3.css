@@ -5,8 +5,6 @@ html{
 div#header {
   padding: 5px;
   background: gray;
-  color: red;
-  font-size: larger;
 }
 button.p2:hover{
   background:green;
@@ -40,12 +38,6 @@ img#my\ logo:hover{
     animation-name: spinning;
     animation-duration: .5s;
     animation-timing-function: linear;
-}
-button{
-    font-style: italic
-}
-button{
-    font-size: larger
 }
 div#RandomMemeGen{
     color: blue
