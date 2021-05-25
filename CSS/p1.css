@@ -1,4 +1,14 @@
+.header_top{
+     padding: 5px;
+  background: white;
+  color: navy;
+  font-size: larger;
 
+}
+body{
+    font-size: large;
+    
+}
 html{
     background:black
 }
