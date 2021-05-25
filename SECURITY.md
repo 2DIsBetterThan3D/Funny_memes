@@ -6,8 +6,9 @@
 
 | release or branch | Supported |
 | ------- | ------------------ |
-| main    | :white_check_mark: |
-| patches   | :x:
+| main    | ✔️ |
+| patches   | ✅
+|experimental(unstable)|:x:|
 |v2.2.0(Current)|:white_check_mark:|
 |v2.1.7|:white_check_mark:|
 |v1.1(soon to be unsupported)|:white_check_mark:|
