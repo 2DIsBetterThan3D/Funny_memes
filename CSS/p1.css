@@ -1,10 +1,4 @@
-.header_top{
-     padding: 5px;
-  background: white;
-  color: navy;
-  font-size: larger;
 
-}
 body{
     font-size: large;
     
@@ -15,17 +9,9 @@ html{
 html{
     color:white
 }
-button{
-    color:red
-}
-button{
-    background:navy
 }
 h2{
     color:darkred
-}
-button{
-    background:navy
 }
 h2{
     color:red
@@ -37,42 +23,28 @@ div#funnyQuote{
     font-style:italic;
     font-size: larger
 }
-button{
+button.funnyqg{
     width:150px;
     height: 40px;
     font-size: larger;
-    font-style: italic
+    font-style: italic;
+    background:navy;
+    color:red
 }
-
+button.funnyqg:hover{
+	width:150px;
+   	height: 40px;
+    	font-size: larger;
+    	font-style: italic;
+    	background:red;
+    	color:navy
+}
 
 div#FunnyQuoteGen{
     color: green;
     font-style: italic;
     font-size: larger
     }
-button{
-    font-style: italic
-}
-button{
-    font-size: larger
-}
-div#RandomMemeGen{
-    color: blue
-}
-div#RandomMemeGen{
-    font-size: larger
-}
-div#RandomMemeGen{
-   font-size-adjust: 1.6;
-   background: grey
-}
-button#randomMeme{
-    width: 600px;
-    height: 60px;
-    font-size-adjust: 1.1;
-    background: darkred;
-    color:black
-}
 
 .header {
   padding: 5px;
@@ -80,15 +52,21 @@ button#randomMeme{
   color: red;
   font-size: larger;
 }
-a.next-button:hover{
-  padding:2px;
+button.p2:hover{
   background:green;
   color:blue
 }
-a.prev-button:hover{
-    padding:2px;
-    background:red;
-    color:black
+button.p1:hover{
+    background:green;
+    color:blue
+}
+button.p3:hover{
+	background:green;
+   	color:blue
+}
+button.p4:hover{
+	background:green;
+   	color:blue
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }

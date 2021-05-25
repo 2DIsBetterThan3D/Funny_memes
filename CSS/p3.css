@@ -8,15 +8,21 @@ div#header {
   color: red;
   font-size: larger;
 }
-a.next-button:hover{
-  padding:2px;
-  background:black;
-  color:red
+button.p2:hover{
+  background:green;
+  color:blue
 }
-a.prev-button:hover{
-    padding:2px;
+button.p1:hover{
     background:green;
     color:blue
+}
+button.p3:hover{
+	background:green;
+   	color:blue
+}
+button.p4:hover{
+	background:green;
+   	color:blue
 }
 @keyframes spinning {
     from { transform: rotate(0deg) }
