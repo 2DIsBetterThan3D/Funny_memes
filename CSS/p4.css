@@ -1,0 +1,38 @@
+div#sound\ buttons{
+    font-size: larger;
+    background: navy;
+    color: orange;
+    width:1000px;
+    height:500;
+    overflow: auto;
+    text-align: justify;
+    padding: 20px;
+    
+        
+}
+html{
+    background:black;
+    color:red;
+}
+.header {
+  padding: 5px;
+  background: gray;
+  color: red;
+  font-size: larger;
+}
+.p2:hover{
+  background:green;
+  color:blue
+}
+.p1:hover{
+    background:green;
+    color:blue
+}
+.p3:hover{
+	background:green;
+   	color:blue
+}
+button.p4:hover{
+	background:green;
+   	color:blue
+}
