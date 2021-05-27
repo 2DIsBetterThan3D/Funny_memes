@@ -24,13 +24,14 @@ button.p4:hover{
 	background:green;
    	color:blue
 }
-@keyframes spinning {
-    from { transform: rotate(0deg) }
-    to { transform: rotate(360deg) }
- 
+button.p5:hover{
+	background:green;
+   	color:blue
 }
-
-
+button.p5{
+	background:red;
+	color:blue
+}
 img#logo:hover{
     animation-name: spinning;
     animation-duration: .5s;
@@ -41,24 +42,8 @@ img#my\ logo:hover{
     animation-duration: .5s;
     animation-timing-function: linear;
 }
-div#sound\ buttons{
-    font-size: larger;
-    background: navy;
-    color: orange;
-    width:1000px;
-    height:500;
-    overflow: auto;
-    text-align: justify;
-    padding: 20px;
-    
-        
-}
-button.p5:hover{
-	background:green;
-   	color:blue
-}
-button.p2{
-	background:red;
-	color:blue
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
 }
 
