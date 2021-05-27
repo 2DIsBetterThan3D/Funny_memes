@@ -85,3 +85,11 @@ img#my\ logo:hover{
     animation-duration: .5s;
     animation-timing-function: linear;
 }
+button.p5:hover{
+	background:green;
+   	color:blue
+}
+button.p1{
+	background:red;
+	color:blue
+}
