@@ -7,12 +7,8 @@
 | release or branch | Supported |
 | ------- | ------------------ |
 | main    | ✔️ |
-| patches   | ✔️
+| patches(beta)| ✔️
 |experimental(unstable)|:x:|
-|v2.2.0(Current)|:heavy_check_mark:|
-|v2.2.1(beta)|:heavy_check_mark:|
-|v2.1.7|:heavy_check_mark:|
-|v1.1(no longer watched)|❌|
 
 
 Get more info on a release: https://github.com/2DIsBetterThan3D/Funny_memes/releases
