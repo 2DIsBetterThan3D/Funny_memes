@@ -36,3 +36,28 @@ button.p4:hover{
 	background:green;
    	color:blue
 }
+button.p5:hover{
+	background:green;
+   	color:blue
+}
+button.p4{
+	background:red;
+	color:blue
+}
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+ 
+}
+
+
+img#logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}
+img#my\ logo:hover{
+    animation-name: spinning;
+    animation-duration: .5s;
+    animation-timing-function: linear;
+}

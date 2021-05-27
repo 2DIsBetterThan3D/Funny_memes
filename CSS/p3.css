@@ -63,4 +63,11 @@ button#randomMeme:hover{
     background: black;
     color:darkred
 }
+button.p5:hover{
+	background:green;
+   	color:blue
+}
+button.p3{
+	background:red;
+	color:blue
 }
