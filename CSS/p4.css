@@ -61,3 +61,7 @@ img#my\ logo:hover{
     animation-duration: .5s;
     animation-timing-function: linear;
 }
+a{
+    padding:3px;
+    color:greenyellow
+}
